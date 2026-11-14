@@ -34,3 +34,10 @@ Intensity.
 | 4 | mid Intensity | 4bars |
 | 5 | Input prompt repeated | 4bars |
 | 6 | high Intensity | 4bars |
+
+## Demo Videos
+
+The following videos demonstrate the generated music.
+
+- [Complexity = 1: Low → Mid → High Intensity](https://drive.google.com/file/d/1reRAXwgClrB81fw3vCp98EYZranjTXl6/view?usp=drive_link)
+- [Complexity = 100: Low → Mid → High Intensity](https://drive.google.com/file/d/1FUVkAaaDSKW9m_Wwt-d6oGYk5_K8i5fG/view?usp=drive_link)
